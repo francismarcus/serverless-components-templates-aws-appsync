@@ -2,12 +2,11 @@
 
 &nbsp;
 
-This is a template for deploying a serverless GraphQL API via the [AWS AppSync](https://www.github.com/serverless-components/aws-app-sync) Component with a [AWS DynamoDB](https://www.github.com/serverless-components/aws-dynamodb) Component.
+This is a template for deploying a serverless GraphQL API via the [AWS AppSync](https://www.github.com/serverless-components/aws-app-sync) Component.
 
 This is a great architecture if you want to build a GraphQL API, without having to deal with the complexity that comes with GraphQL, as AppSync lets you declare resolvers using the Apache Velocity Template Language
 
 [Learn more about the AWS AppSync Component in its repository.](https://www.github.com/serverless-components/aws-app-sync)
-[Learn more about the AWS DynamoDB Component in its repository.](https://www.github.com/serverless-components/aws-dynamodb)
 
 &nbsp;
 
